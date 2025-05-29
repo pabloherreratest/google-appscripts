@@ -1,6 +1,6 @@
 /**
  * Elaborado por: Pablo Herrera
- * Vista canal de youtube: Testin con Pablo Herrera
+ * Vista canal de youtube: Testing con Pablo Herrera
  */
 
 /**
